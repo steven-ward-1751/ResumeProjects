@@ -1,0 +1,2 @@
+This is a program designed to predict the stats of fantasy football players
+Prediction is done in Java while the parsing of players and stats to format used by prediction is done in python
